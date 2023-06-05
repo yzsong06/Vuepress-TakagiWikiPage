@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://wiki.cdn.takagi.icu/sitemap.xml

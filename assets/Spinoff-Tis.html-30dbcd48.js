@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as t}from"./app-74744414.js";const c={};function r(f,n){return o(),t("div")}const i=e(c,[["render",r],["__file","Spinoff-Tis.html.vue"]]);export{i as default};
