@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as r}from"./app-251b208c.js";const t={};function c(f,n){return o(),r("div")}const i=e(t,[["render",c],["__file","Spinoff-Yukari.html.vue"]]);export{i as default};
