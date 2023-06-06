@@ -1,0 +1,1 @@
+import{_ as a}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as e,b as r}from"./app-3d1f9427.js";const c={},s=e("h1",{id:"赞助站点",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#赞助站点","aria-hidden":"true"},"#"),r(" 赞助站点")],-1),n=[s];function _(d,i){return t(),o("div",null,n)}const f=a(c,[["render",_],["__file","Pay.html.vue"]]);export{f as default};
