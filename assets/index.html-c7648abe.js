@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as n,b as e}from"./app-9a1306a1.js";const s={},c=e("p",null,[e("strong",null,"基于Vuepress搭建的《擅长捉弄的高木同学》类wiki信息资料站")],-1),r=[c];function _(l,i){return o(),n("div",null,r)}const f=t(s,[["render",_],["__file","index.html.vue"]]);export{f as default};
