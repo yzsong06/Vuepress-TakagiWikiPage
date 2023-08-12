@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://wiki.takagi.icu/sitemap.xml
+Sitemap: https://wiki.takagi3.cn/sitemap.xml
