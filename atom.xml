@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://wiki.takagi3.cn/</id>
   <title/>
-  <updated>2023-08-21T10:29:14.933Z</updated>
+  <updated>2023-08-21T10:48:05.139Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://wiki.takagi3.cn/atom.xml"/>
   <link rel="alternate" href="https://wiki.takagi3.cn/"/>
@@ -14,7 +14,7 @@
     <title type="text">为什么我们选择了Vue/Vite作为站点构建器？</title>
     <id>https://wiki.takagi3.cn/blog/posts/WhyVueorVite.html</id>
     <link href="https://wiki.takagi3.cn/blog/posts/WhyVueorVite.html"/>
-    <updated>2023-08-21T10:28:25.000Z</updated>
+    <updated>2023-08-21T10:47:29.000Z</updated>
     <summary type="html"><![CDATA[<p>我们在高木Wiki信息站与高木站点导航中分别应用到了VuePress与VitePress。</p>
 <p>不过也可能有些时候可能会有人想问：为什么我们选择了这两个站点构建器？</p>
 <p>VuePress是基于Vue.js的站点构建器，它简洁，快速，功能强大，而且为文档量身定制，我们可以快速用它建设我们需求的文档。</p>
@@ -44,7 +44,7 @@
     <title type="text">组织博客建立</title>
     <id>https://wiki.takagi3.cn/blog/posts/hello.html</id>
     <link href="https://wiki.takagi3.cn/blog/posts/hello.html"/>
-    <updated>2023-08-21T10:28:25.000Z</updated>
+    <updated>2023-08-21T10:47:29.000Z</updated>
     <summary type="html"><![CDATA[<p>Hi～我是一只鬆，相信你可能会在某些高木的站点项目中见到过我的名字了，我也确实主要活跃于高木建站圈。目前是高木GitHub集群组织的一员。</p>
 <p>这里会分享一些我们在组织建站与开发过程中遇到的一些问题与事情，也可能分享一些建站资料、再或者分享一些日常、博客嘛，主要也是为了分享而存在。</p>
 <p>所以，我也希望你在本站度过一个愉快的时光。</p>
